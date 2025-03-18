@@ -1,8 +1,6 @@
 function Home () { 
     return 
-    <h1>  !Kenjinho testinho! </h1>,
-    <h2>oh yeah baby!</h2>,
-    <h2>Kenjinho, programinho! 😤</h2>
+    <h1>Kenjinho, programinho! 😤</h1>
 }
 
 export default Home;
